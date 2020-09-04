@@ -12,8 +12,11 @@ Stores here is the project for converting FBX file into GLTF file format.
 
 # Reference
 
--- [fbx2gltf npm package](https://developer.aliyun.com/mirror/npm/package/fbx2gltf)
--- [Original once](https://github.com/facebookincubator/FBX2glTF)
+1. [fbx2gltf npm package](https://developer.aliyun.com/mirror/npm/package/fbx2gltf)
+
+2. [Original once](https://github.com/facebookincubator/FBX2glTF)
+
+
 
 
 <p align="right">Alexander Ezharjan</p>
