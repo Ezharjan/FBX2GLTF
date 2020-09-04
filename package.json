@@ -1,0 +1,28 @@
+{
+  "name": "fbx2gltf",
+  "version": "1.0.0",
+  "description": "this is the project for converting fbx file into gltf file format",
+  "main": "gltfConvertor.js",
+  "dependencies": {
+    "fbx2gltf": "^0.9.7-p1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ezharjan/FBX2GLTF.git"
+  },
+  "keywords": [
+    "fbx",
+    "convert",
+    "gltf"
+  ],
+  "author": "Alexander Ezharjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ezharjan/FBX2GLTF/issues"
+  },
+  "homepage": "https://github.com/Ezharjan/FBX2GLTF#readme"
+}
